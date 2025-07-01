@@ -1,0 +1,8 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Kufam:ital,wght@0,400..900;1,400..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:wght@400;600&display=swap');
+
+@import "tailwindcss";
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
